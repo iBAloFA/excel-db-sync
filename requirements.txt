@@ -1,0 +1,6 @@
+pandas
+openpyxl
+sqlalchemy
+watchdog
+psycopg2-binary
+typer[all]
